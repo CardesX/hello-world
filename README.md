@@ -1,2 +1,6 @@
 # hello-world
-E
+
+
+hello geun
+
+just following the guides say
